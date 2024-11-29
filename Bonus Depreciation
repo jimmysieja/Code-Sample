@@ -10,8 +10,8 @@ capture log close
 set type double
 pause on
 
-* Set Working Directory (insert your directory below)
-cd "C:/Users/jimmy/Documents/Data Tasks/Stanford GSB/Bonus"
+* Set Working Directory (insert directory below)
+cd ""
 import delimited "qwi.csv", clear
 
 
